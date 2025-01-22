@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Education: University of Notre Dame 
+How to reach me: email - wsteadma@nd.edu, phone - +1 (708)-870-6704
+
 <!--
 **wsteadman/wsteadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
