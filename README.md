@@ -2,7 +2,10 @@
 
 My name is Will and I am interested data science and all things statistics. I am currently a student at the university of Notre Dame studying Finance and Data Science. I like to  hike, travel, and and play hockey when I find the time. 
 
-Skills: Python, Excel, Cap IQ, Alpha Sense 
+Skills: 
+- Python
+- PPT & Excel 
+- Cap IQ & Alpha Sense 
 
 How to reach me: email - wsteadma@nd.edu
 
