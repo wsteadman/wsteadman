@@ -5,7 +5,7 @@ My name is Will and I am interested data science and all things statistics. I am
 Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
 
 
-How to reach me: email - wsteadma@nd.edu, phone - +1 (708)-870-6704
+How to reach me: email - wsteadma@nd.edu
 
 <!--
 **wsteadman/wsteadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
