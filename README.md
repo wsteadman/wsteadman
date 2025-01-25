@@ -5,7 +5,7 @@ My name is Will and I am interested data science and all things statistics. I am
 Skills: Python, Excel, Cap IQ, Alpha Sense 
 How to reach me: email - wsteadma@nd.edu
 
-Portfolios: 
+Portfolios: https://github.com/wsteadman/Steadman-Data-Science-Portfolio 
 <!--
 **wsteadman/wsteadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
