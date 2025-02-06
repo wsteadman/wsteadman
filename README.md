@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-My name is Will and I am interested data science and all things statistics. I am currently a student at the University of Notre Dame studying Finance and Data Science. I like to  hike, travel, and and play hockey when I find the time. 
+My name is Will. I am a finance major interested data science and all things statistics. I am currently a student at the University of Notre Dame and I love to  hike, travel, and and play hockey when I find the time. 
+
+Current Projects: [Steadman-Data-Science-Portfolio](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git) 
 
 Skills: 
 - Python
 - PPT & Excel 
 - Cap IQ & Alpha Sense 
 
-How to reach me: email - wsteadma@nd.edu
+How to reach me: email - wsteadma@nd.edu, LinkedIn: linkedin.com/in/william-steadman-541a5b242 
 
-Portfolios: [Steadman-Data-Science-Portfolio](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git) 
 <!--
 **wsteadman/wsteadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
