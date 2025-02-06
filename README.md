@@ -2,6 +2,9 @@
 
 My name is Will. I am a finance major interested data science and all things statistics. I am currently a student at the University of Notre Dame and I love to  hike, travel, and and play hockey when I find the time. 
 
+![Image2](https://github.com/user-attachments/assets/5262921c-1fa7-4e16-9db9-2678dbfbfe07)
+
+
 Current Projects: [Steadman-Data-Science-Portfolio](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git) 
 
 Skills: 
