@@ -12,7 +12,7 @@ Skills:
 - PPT & Excel 
 - Cap IQ & Alpha Sense 
 
-How to reach me: email - wsteadma@nd.edu, LinkedIn: linkedin.com/in/william-steadman-541a5b242 
+How to reach me: email - wsteadma@nd.edu, [LinkedIn:](linkedin.com/in/william-steadman-541a5b242) 
 
 <!--
 **wsteadman/wsteadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
