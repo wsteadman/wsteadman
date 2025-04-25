@@ -14,10 +14,28 @@ Current Projects: [Steadman-Data-Science-Portfolio](https://github.com/wsteadman
 Education:
 
 
-Languages and Tools: 
-- Python
-- PPT & Excel 
-- Cap IQ & Alpha Sense 
+## 🚀 Languages and Tools
+
+<p>
+  <img src="https://github.com/user-attachments/assets/e79ea90e-6914-4e49-b01b-a6e75b60350c" alt="Tool 1" width="50"/>
+  <img src="https://github.com/user-attachments/assets/a15e6565-f697-4471-8581-da55a45b2149" alt="Tool 2" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0ca2b9fe-9aec-4642-a113-ba4c05cc836e" alt="Tool 3" width="50"/>
+  <img src="https://github.com/user-attachments/assets/b0636df6-adab-444e-ac79-3fbfe5006654" alt="Tool 4" width="50"/>
+  <img src="https://github.com/user-attachments/assets/6ee73701-9bd9-4518-8e5c-4a10fb34c15f" alt="Tool 5" width="50"/>
+  <img src="https://github.com/user-attachments/assets/9f62c8b0-a92b-4a55-b5ac-57dd5f43f300" alt="Tool 6" width="50"/>
+  <img src="https://github.com/user-attachments/assets/4a828263-1a61-4b7b-b49b-84878b64a9a2" alt="Tool 7" width="50"/>
+  <img src="https://github.com/user-attachments/assets/41574805-c43d-4972-99f3-0e4814b923d4" alt="Tool 8" width="50"/>
+  <img src="https://github.com/user-attachments/assets/18d850ca-6ec8-4d49-bdf6-63a8c6b6488a" alt="Tool 9" width="50"/>
+</p>
+
+
+
+
+
+
+
+
+
 
 How to reach me: email - wsteadma@nd.edu, [LinkedIn](linkedin.com/in/william-steadman-541a5b242) 
 
