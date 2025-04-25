@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/33d4e2f2-686a-48fd-8e9b-97872f375296" alt="image" width="1000"/>
+
+
+
 ## Hi there 👋
 
 My name is Will. I am a finance major interested data science and all things statistics. I am currently a student at the University of Notre Dame and I love to  hike, travel, and and play hockey when I find the time. 
