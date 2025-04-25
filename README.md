@@ -44,3 +44,15 @@ I am currently a student at the University of Notre Dame, and I love uncovering 
 - 💼 [LinkedIn](https://linkedin.com/in/william-steadman-541a5b242)
 
 ---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsteadman&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsteadman&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
+</p>
+
+## 🗓️ Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/wsteadman" alt="GitHub Contribution Chart" />
+</p>
