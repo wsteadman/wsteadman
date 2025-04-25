@@ -23,7 +23,7 @@ Education:
   <img src="https://github.com/user-attachments/assets/b0636df6-adab-444e-ac79-3fbfe5006654" alt="Tool 4" width="50"/>
   <img src="https://github.com/user-attachments/assets/6ee73701-9bd9-4518-8e5c-4a10fb34c15f" alt="Tool 5" width="50"/>
   <img src="https://github.com/user-attachments/assets/9f62c8b0-a92b-4a55-b5ac-57dd5f43f300" alt="Tool 6" width="50"/>
-  <img src="https://github.com/user-attachments/assets/4a828263-1a61-4b7b-b49b-84878b64a9a2" alt="Tool 7" width="50"/>
+  <img src="https://github.com/user-attachments/assets/89bed6ab-24f4-4f10-8419-2ba717020489" alt="Tool 7" width="50"/>
   <img src="https://github.com/user-attachments/assets/41574805-c43d-4972-99f3-0e4814b923d4" alt="Tool 8" width="50"/>
   <img src="https://github.com/user-attachments/assets/18d850ca-6ec8-4d49-bdf6-63a8c6b6488a" alt="Tool 9" width="50"/>
 </p>
