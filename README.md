@@ -4,14 +4,17 @@
 
 ## Hi there 👋
 
-My name is Will. I am a finance major interested data science and all things statistics. I am currently a student at the University of Notre Dame and I love to  hike, travel, and and play hockey when I find the time. 
+
 
 <img src="https://github.com/user-attachments/assets/5262921c-1fa7-4e16-9db9-2678dbfbfe07" alt="Image2" width="300"/>
 
+<p> 
 
-Current Projects: [Steadman-Data-Science-Portfolio](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git) 
-
-Education:
+## Projects:
+  
+  [Steadman-Data-Science-Portfolio](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git) 
+  
+<p>
 
 
 ## 🚀 Languages and Tools
@@ -28,16 +31,10 @@ Education:
   <img src="https://github.com/user-attachments/assets/18d850ca-6ec8-4d49-bdf6-63a8c6b6488a" alt="Tool 9" width="50"/>
 </p>
 
+## Reach me: 
+wsteadma@nd.edu
 
-
-
-
-
-
-
-
-
-How to reach me: email - wsteadma@nd.edu, [LinkedIn](linkedin.com/in/william-steadman-541a5b242) 
+[LinkedIn](linkedin.com/in/william-steadman-541a5b242) 
 
 <!--
 **wsteadman/wsteadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
