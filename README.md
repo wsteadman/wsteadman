@@ -51,8 +51,3 @@ I am currently a student at the University of Notre Dame, and I love uncovering 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsteadman&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
 </p>
 
-## 🗓️ Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/wsteadman" alt="GitHub Contribution Chart" />
-</p>
