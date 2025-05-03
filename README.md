@@ -10,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/5262921c-1fa7-4e16-9db9-2678dbfbfe07" alt="Will Avatar" width="300"/>
 </p>
 
-🎓 Data Scientist | 📊 Financial Analyst | 🧠 Machine Learning Enthusiast  
+🎓 Data Science Student| 📊 Financial Analyst | 🧠 Machine Learning Enthusiast  
 
 I am currently a student at the University of Notre Dame, and I love uncovering insights from data and building solutions that make a difference!
 
@@ -21,6 +21,10 @@ I am currently a student at the University of Notre Dame, and I love uncovering 
 - 🔗 [**Steadman Data Science Portfolio**](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git)
 
 ---
+
+- [Resume](file:///C:/Users/WilliamSteadman/OneDrive%20-%20nd.edu/Desktop/Steadman_Resume.pdf)
+
+--- 
 
 ## 🛠️ Languages & Tools
 
