@@ -12,7 +12,7 @@
 
 🎓 Data Science Student| 📊 Financial Analyst | 🧠 Machine Learning Enthusiast  
 
-I am currently a student at the University of Notre Dame, and I love uncovering insights from data and building solutions that make a difference!
+I am currently a student at the University of Notre Dame, and I love uncovering insights from data and building solutions that make a difference! I'm particularly interested in using machine learning and statistical modeling to solve operational challenges, where data-driven decisions can directly impact lives and systems.
 
 ---
 
