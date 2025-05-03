@@ -16,13 +16,13 @@ I am currently a student at the University of Notre Dame, and I love uncovering 
 
 ---
 
-## 🚀 Projects
-
-- 🔗 [**Steadman Data Science Portfolio**](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git)
+- 🔗 [Resume](https://github.com/wsteadman/Documents/blob/main/Steadman_Resume.pdf?raw=true)
 
 ---
 
-- 🔗 [Resume](https://github.com/wsteadman/Documents/blob/main/Steadman_Resume.pdf?raw=true)
+## 🚀 Projects
+
+- 🔗 [**Steadman Data Science Portfolio**](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git)
 
 --- 
 
