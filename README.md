@@ -22,7 +22,7 @@ I am currently a student at the University of Notre Dame, and I love uncovering 
 
 ---
 
-- 🔗 [Resume](file:///C:/Users/WilliamSteadman/OneDrive%20-%20nd.edu/Desktop/Steadman_Resume.pdf)
+- 🔗 [Resume](file:///C:/Users/WilliamSteadman/OneDrive%20-%20nd.edu/Desktop/Steadman_Resume.pdf](https://github.com/wsteadman/Documents/blob/main/Steadman_Resume.pdf )
 
 --- 
 
