@@ -16,7 +16,9 @@ I am currently a student at the University of Notre Dame, and I love uncovering 
 
 ---
 
-- 🔗 [Resume](https://github.com/wsteadman/Documents/blob/main/Steadman_Resume.pdf?raw=true)
+## Resume
+
+- 🔗 [Steadman_resume_link](https://github.com/wsteadman/Documents/blob/main/Steadman_Resume.pdf?raw=true)
 
 ---
 
