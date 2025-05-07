@@ -25,7 +25,7 @@ I am currently a student at the University of Notre Dame, and I love uncovering 
 ## 🚀 Projects
 
 - 🔗 [**Steadman Data Science Portfolio**](https://github.com/wsteadman/Steadman-Data-Science-Portfolio.git)
-
+    - **Highlights**: [ML_Project](https://github.com/wsteadman/Steadman-Data-Science-Portfolio/tree/main/MLStreamlitApp), [ML_Unsupervised_Project](https://github.com/wsteadman/Steadman-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
 --- 
 
 ## 🛠️ Languages & Tools
